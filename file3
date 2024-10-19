@@ -1,0 +1,3 @@
+touch style.css
+git add style.css
+git commit -m "Add CSS file to style the webpage"
