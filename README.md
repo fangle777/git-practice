@@ -1,2 +1,2 @@
-# git-practice
-lab7
+git add README.md
+git commit -m "Initial commit: Add README file"
